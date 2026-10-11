@@ -1,262 +1,198 @@
 <div align="center">
 
-<!-- Hero Banner in "Under the Moonlight" Palette -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=292966,5C5C99,A3A3CC,CCCCFF&height=240&section=header&text=Rishabh%20Kataria&fontSize=50&fontAlignY=34&subtext=14%20y/o%20Tech%20Founder%20•%20AI%20%26%20Hardware%20Builder%20•%20Full-Stack%20Engineer&subFontSize=16&subfontAlignY=58" width="100%" alt="Rishabh Kataria Banner" />
+<!-- Minimalist Slate-Indigo Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=141432,292966,141432&height=180&section=header&text=Rishabh%20Kataria&fontSize=42&fontAlignY=42&subtext=Founder%20%E2%80%A2%20Systems%20%26%20AI%20Engineer%20%E2%80%A2%20Hardware%20Builder&subFontSize=16&subfontAlignY=68" width="100%" alt="Rishabh Kataria" />
 
-<!-- Dynamic Animated Typing Title in Moonlight Luminous (#CCCCFF) with Space Grotesk font -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=CCCCFF&center=true&vCenter=true&width=750&lines=14-Year-Old+Founder+of+Divergit+%26+VyaparLaunch+SI;Building+Autonomous+AI+Agents%2C+Voice+Pipelines+%26+FastMCP;Prototyping+Assistive+Hardware+%26+3D-Printed+Aerodynamics;Zero-Knowledge+Cryptography+%26+Linear+Programming+Hacker" alt="Typing SVG" />
+<!-- Dynamic Animated Typing Title in #CCCCFF with Space Grotesk -->
+<a href="https://github.com/nova-rishabh">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2500&pause=1200&color=CCCCFF&center=true&vCenter=true&width=750&lines=14-Year-Old+Founder+of+Divergit+%26+VyaparLaunch+SI;Building+Autonomous+AI+Agents%2C+Voice+Pipelines+%26+FastMCP;Prototyping+Assistive+Hardware+%26+3D-Printed+Aerodynamics;Zero-Knowledge+Cryptography+%26+Linear+Programming+Engines" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Brand Badges with "Under the Moonlight" Hex Tokens -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-292966?style=for-the-badge&logo=googlemaps&logoColor=CCCCFF&labelColor=141432" alt="Gurugram" />
-  <img src="https://img.shields.io/badge/Contributions-1%2C720%2B-5C5C99?style=for-the-badge&logo=github&logoColor=CCCCFF&labelColor=292966" alt="Contributions" />
-  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Founder-Divergit.com-292966?style=for-the-badge&logo=vercel&logoColor=CCCCFF&labelColor=141432" alt="Divergit" /></a>
-  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Voltmen_Solar-voltmensolar.com-5C5C99?style=for-the-badge&logo=solar&logoColor=CCCCFF&labelColor=292966" alt="Voltmen Solar" /></a>
-  <a href="https://linkedin.com/in/rishabh-kataria-953a65268"><img src="https://img.shields.io/badge/LinkedIn-Connect-292966?style=for-the-badge&logo=linkedin&logoColor=CCCCFF&labelColor=141432" alt="LinkedIn" /></a>
-  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-5C5C99?style=for-the-badge&logo=gmail&logoColor=CCCCFF&labelColor=292966" alt="Email" /></a>
+  <a href="https://github.com/nova-rishabh"><img src="https://img.shields.io/badge/Contributions-1%2C720%2B-292966?style=flat-square&logo=github&logoColor=CCCCFF" alt="Contributions" /></a>
+  <img src="https://img.shields.io/badge/Location-Gurugram%2C_India-141432?style=flat-square&logo=googlemaps&logoColor=CCCCFF" alt="Gurugram" />
+  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Founder-Divergit.com-292966?style=flat-square&logo=vercel&logoColor=CCCCFF" alt="Divergit" /></a>
+  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Tech_Lead-voltmensolar.com-141432?style=flat-square&logo=solar&logoColor=CCCCFF" alt="Voltmen Solar" /></a>
+  <a href="https://linkedin.com/in/rishabh-kataria-953a65268"><img src="https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-292966?style=flat-square&logo=linkedin&logoColor=CCCCFF" alt="LinkedIn" /></a>
+  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-141432?style=flat-square&logo=gmail&logoColor=CCCCFF" alt="Email" /></a>
 </p>
-
-### 🌙 *"Bridging the gap between ambitious ideas and tangible reality—across software, AI, hardware, and business."*
 
 </div>
 
 ---
 
-## 👨‍💻 Profile & Core Focus
+### About Me
 
-I am a **14-year-old developer, hardware hacker, and founder** based in Gurugram, India. My approach centers on turning ideas into functional, production-grade products rather than stopping at concepts.
+I am a **14-year-old systems engineer and founder** based in Gurugram, India. I focus on turning complex technical concepts into production-grade reality—operating commercial SaaS monorepos, building autonomous voice pipelines, and fabricating assistive embedded hardware.
 
-* 🏢 **Founder @ VyaparLaunch SI:** Built a commercial SaaS monorepo automating Google Business Profile review intelligence and WhatsApp damage control for Indian retail/service SMBs.
-* 🚀 **Founder @ Divergit (`divergit.com`):** Operating a digital engineering agency delivering high-ticket B2B automations, Vapi voice agents, and multi-stage workflow pipelines.
-* ⚡ **Digital & Tech Lead @ VOLTMEN:** Powering corporate web architectures (`voltmensolar.com`, `voltmenenergy.com`), lead acquisition funnels, and technical solar layouts for the family energy business.
-* 🛠️ **Embedded & Aerospace Hardware:** Engineering the **Setu Smart Navigation Cane** (dual ultrasonic & haptic assistive device for BIC 2.0) and fabricating lightweight 3D-printed **VTOL RC aircraft** using foaming LW-PLA.
-* 🧠 **AI, ML & Cryptography:** Architecting real-time edge audio ML (**EchoBind**), privacy-preserving zero-knowledge DeFi lending (**Credipro** on Midnight Network), and constrained mathematical optimization engines (**CivicGrid-AI**).
+- **Founder @ VyaparLaunch SI:** Commercial SaaS monorepo automating Google Business review intelligence and WhatsApp damage control for SMBs.
+- **Founder @ Divergit ([divergit.com](https://divergit.com)):** Autonomous B2B workflow orchestration and conversational voice AI agency.
+- **Digital & Tech Lead @ VOLTMEN:** Powering corporate platforms ([voltmensolar.com](https://voltmensolar.com), [voltmenenergy.com](https://voltmenenergy.com)) and lead acquisition funnels for industrial CleanTech.
+- **Embedded & Hardware Engineering:** Conceived and engineered the **Setu Smart Navigation Cane** (dual-height ultrasonic obstacle detection with haptics for BIC 2.0) and aerodynamically designed lightweight foaming **VTOL RC aircraft** in SolidWorks.
+- **Mathematical Rigor:** Active algorithmic Olympiad preparation in Number Theory, Combinatorics, and Geometry for **IOQM, ZCO, and ZIO**.
 
 ---
 
-## 📊 GitHub Analytics & Activity Metrics
+### GitHub Analytics & Velocity
 
 <div align="center">
 
-<!-- Real-time Contribution Graph (Tinted to Muted Periwinkle #A3A3CC) -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/A3A3CC/nova-rishabh" alt="nova-rishabh's GitHub Activity Chart" width="100%" />
-</p>
+<!-- Real-time Contribution Graph Tinted to #A3A3CC -->
+<img src="https://ghchart.rshah.org/A3A3CC/nova-rishabh" alt="GitHub Contributions Chart" width="100%" />
 
-<!-- GitHub Stats & Streak Cards in Custom "Under the Moonlight" Theme -->
+<br/><br/>
+
+<!-- Cohesive Activity Stats Cards -->
 <p align="center">
   <a href="https://github.com/nova-rishabh">
-    <img src="https://github-readme-stats.vercel.app/api?username=nova-rishabh&show_icons=true&hide_rank=true&bg_color=141432&title_color=CCCCFF&icon_color=CCCCFF&text_color=A3A3CC&border_color=5C5C99&border_radius=10" alt="Rishabh's GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nova-rishabh&show_icons=true&hide_rank=true&bg_color=141432&title_color=CCCCFF&icon_color=CCCCFF&text_color=A3A3CC&border_color=5C5C99&border_radius=8" alt="GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/nova-rishabh">
-    <img src="https://streak-stats.demolab.com/?user=nova-rishabh&background=141432&border=5C5C99&stroke=CCCCFF&ring=CCCCFF&fire=CCCCFF&currStreakNum=CCCCFF&sideNums=A3A3CC&currStreakLabel=CCCCFF&sideLabels=A3A3CC&dates=A3A3CC&border_radius=10" alt="Rishabh's GitHub Streak" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nova-rishabh&layout=compact&bg_color=141432&title_color=CCCCFF&text_color=A3A3CC&border_color=5C5C99&border_radius=8" alt="Top Languages" height="165" />
   </a>
-</p>
-
-<!-- Top Languages Card in Custom "Under the Moonlight" Theme -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nova-rishabh&layout=compact&bg_color=141432&title_color=CCCCFF&text_color=A3A3CC&border_color=5C5C99&border_radius=10" alt="Top Languages" height="165" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Ventures & Flagship Builds
+### Flagship Systems & Ventures
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 VyaparLaunch SI</h3>
-      <p><b>Super Intelligence for Local Businesses (SaaS Monorepo)</b></p>
+      <h3>VyaparLaunch SI</h3>
+      <p><b>Review Intelligence & WhatsApp Damage Control Monorepo</b></p>
       <ul>
-        <li>Real-time Google Business Profile review ingestion via Cloud Pub/Sub webhooks.</li>
-        <li>Gemini 2.5 drafts multilingual AI replies; auto-publishes 4–5★ positive reviews with safety buffers.</li>
-        <li>Routes critical 1–3★ negative feedback directly to owner's WhatsApp with interactive action buttons.</li>
-        <li>Automated seasonal festival banner generator & Razorpay UPI recurring micro-billing.</li>
+        <li>Real-time Google Cloud Pub/Sub review ingestion from Google Business Profile API.</li>
+        <li>Gemini 2.5 drafts multilingual replies; auto-publishes positive 4–5★ reviews.</li>
+        <li>Intercepts critical 1–3★ negative feedback directly to owner's WhatsApp with interactive action buttons.</li>
+        <li>Automated seasonal festival banners stored on Cloudflare R2; Razorpay UPI recurring billing.</li>
       </ul>
-      <p><b>Stack:</b> <code>Turborepo</code> <code>TypeScript</code> <code>Fastify</code> <code>Prisma</code> <code>Gemini AI</code> <code>WhatsApp Cloud API</code> <code>BullMQ/Redis</code></p>
+      <p><b>Stack:</b> <code>Turborepo</code> <code>TypeScript</code> <code>Fastify</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Redis/BullMQ</code> <code>Gemini AI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Divergit & Client Automations</h3>
-      <p><b>Digital Engineering & Autonomous Workflow Agency</b> (<a href="https://divergit.com">divergit.com</a>)</p>
+      <h3>Divergit Agency</h3>
+      <p><b>Autonomous Workflow & Conversational Voice AI</b> (<a href="https://divergit.com">divergit.com</a>)</p>
       <ul>
-        <li>High-ticket B2B workflow orchestration eliminating manual bottlenecks.</li>
-        <li>Multi-stage WhatsApp Business API nurturing and qualification funnels.</li>
-        <li>Autonomous Vapi.ai / ElevenLabs conversational voice agents with tool-calling.</li>
-        <li>Custom Python webhooks, CRM sync pipelines, and cloud automations.</li>
+        <li>Autonomous inbound/outbound telephony agents on Vapi.ai and ElevenLabs with dynamic CRM tool calling.</li>
+        <li>Multi-stage WhatsApp Business API lead qualification and nurturing funnels.</li>
+        <li>Fault-tolerant Python webhooks and enterprise automations eliminating manual friction.</li>
       </ul>
-      <p><b>Stack:</b> <code>n8n</code> <code>Make.com</code> <code>Python</code> <code>Vapi.ai</code> <code>ElevenLabs</code> <code>WhatsApp API</code></p>
+      <p><b>Stack:</b> <code>n8n</code> <code>Make.com</code> <code>Python</code> <code>Vapi.ai</code> <code>ElevenLabs</code> <code>WhatsApp Cloud API</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/nova-rishabh/Credipro">Credipro (Midnight Network)</a></h3>
-      <p><b>Privacy-Preserving DeFi Lending via zk-SNARKs</b></p>
+      <h3>Setu (Smart Navigation Cane)</h3>
+      <p><b>Assistive Embedded Hardware (Bharat Innovation Challenge 2.0)</b></p>
       <ul>
-        <li>Solves the "Sybil default paradox" in Web3 uncollateralized lending.</li>
-        <li>Borrowers prove creditworthiness with zero-knowledge proofs without revealing identity or scores.</li>
+        <li>Dual-tier HC-SR04 ultrasonic sensors eliminating ground and chest-level blind spots.</li>
+        <li>Variable PWM haptic vibration escalation mapped to distance and hazard height.</li>
+        <li>Rugged 20mm PVC chassis with custom 3D-printed mounts; BOM under ₹1,200 ($14).</li>
+      </ul>
+      <p><b>Stack:</b> <code>Arduino Nano</code> <code>Dual HC-SR04</code> <code>PWM Haptics</code> <code>SolidWorks</code> <code>FDM 3D Printing</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nova-rishabh/Credipro">Credipro (Midnight Network)</a></h3>
+      <p><b>Zero-Knowledge Uncollateralized DeFi Lending</b></p>
+      <ul>
+        <li>Solves uncollateralized lending via zero-knowledge credit proofs (zk-SNARKs).</li>
+        <li>Borrowers prove solvency on-chain without exposing private balance data.</li>
         <li>2-of-3 decentralized oracle consensus decrypts identity strictly upon default under legal MLA.</li>
       </ul>
       <p><b>Stack:</b> <code>Midnight SDK</code> <code>Compact</code> <code>TypeScript</code> <code>Express</code> <code>React</code> <code>Docker</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/nova-rishabh/civicgrid-ai">CivicGrid-AI</a></h3>
-      <p><b>Microgrid Energy Forecasting & Linear Programming Engine</b></p>
-      <ul>
-        <li>Built for "The Optimizers" competition at Indraprastha International School.</li>
-        <li>Scikit-Learn ML models forecast solar and piezoelectric kinetic foot-traffic generation.</li>
-        <li>Constrained Linear Programming (PuLP) guarantees 100% power to emergency/safety loads before public distribution.</li>
-      </ul>
-      <p><b>Stack:</b> <code>Python</code> <code>Streamlit</code> <code>Scikit-learn</code> <code>PuLP</code> <code>Plotly</code> <code>Pandas</code></p>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🦯 Setu (Smart Navigation Cane)</h3>
-      <p><b>Low-Cost Assistive Embedded Hardware (BIC 2.0)</b></p>
+      <h3><a href="https://github.com/nova-rishabh/civicgrid-ai">CivicGrid-AI</a></h3>
+      <p><b>Winner, Indraprastha "The Optimizers" Competition 2026</b></p>
       <ul>
-        <li>Dual-tier ultrasonic obstacle detection (ground level & knee/torso heights).</li>
-        <li>Variable haptic vibration alerts mapping distance and hazard elevation.</li>
-        <li>Built with durable 20mm PVC—zero dependencies on smartphones, mobile data, or subscriptions.</li>
+        <li>Scikit-Learn ML models forecast real-time solar irradiance and kinetic foot-traffic generation.</li>
+        <li>Simplex Linear Programming (PuLP) solves multi-variable power allocation constraints.</li>
+        <li>Guarantees 100% continuous power uptime to emergency and life-safety medical loads.</li>
       </ul>
-      <p><b>Stack:</b> <code>Arduino Nano</code> <code>Dual HC-SR04</code> <code>Haptic Motors</code> <code>C++ Wire</code></p>
+      <p><b>Stack:</b> <code>Python</code> <code>Streamlit</code> <code>Scikit-learn</code> <code>PuLP (LP)</code> <code>Plotly</code> <code>Pandas</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎧 EchoBind</h3>
-      <p><b>Desktop Acoustic Localization & Macro Daemon</b></p>
-      <ul>
-        <li>Turns a physical desk surface into a 4-quadrant macro controller.</li>
-        <li>Continuous stereo audio capture via laptop microphones isolating impulse taps.</li>
-        <li>Librosa MFCC spectral extraction + CPU-bound SVM classification triggering PyAutoGUI macros.</li>
-      </ul>
-      <p><b>Stack:</b> <code>Python</code> <code>PyAudio</code> <code>Librosa</code> <code>Scikit-Learn (SVM)</code> <code>PyAutoGUI</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ F.R.I.D.A.Y Voice AI Suite</h3>
-      <p><b>Iron Man-Inspired Voice AI Assistants & Desktop Agents</b></p>
+      <h3>F.R.I.D.A.Y Voice AI Suite</h3>
+      <p><b>Desktop OS Automation via Model Context Protocol (FastMCP)</b></p>
       <ul>
         <li>Suite of 6 voice AI and Windows OS automation agents.</li>
-        <li>FastMCP (Model Context Protocol) tool servers for system and application control.</li>
-        <li>Real-time WebRTC LiveKit voice pipelines, Whisper STT, Claude & Gemini integration, ChromaDB memory.</li>
+        <li>Custom FastMCP server allowing LLMs to inspect processes, manage files, and execute macros.</li>
+        <li>Real-time WebRTC LiveKit audio streaming, Faster-Whisper STT, and ChromaDB vector memory.</li>
       </ul>
-      <p><b>Stack:</b> <code>Python</code> <code>FastAPI</code> <code>FastMCP</code> <code>LiveKit</code> <code>Gemini</code> <code>Claude</code> <code>ChromaDB</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 PolluGone</h3>
-      <p><b>Photocatalytic Air-Purifying Architectural Tiles (Eureka! Junior)</b></p>
-      <ul>
-        <li>Exterior architectural panels coated with Titanium Dioxide (TiO₂).</li>
-        <li>Sunlight-activated photo-catalysis breaking down VOCs and NOx into harmless compounds.</li>
-        <li>Comprehensive Business Model Canvas (BMC) and validated 35+ user survey.</li>
-      </ul>
-      <p><b>Stack:</b> <code>Material Science</code> <code>TiO₂ Photocatalysis</code> <code>Market Survey</code> <code>BMC</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☀️ <a href="https://voltmensolar.com">VOLTMEN Solar Platform</a></h3>
-      <p><b>Corporate Renewable Energy Web Application</b></p>
-      <ul>
-        <li>Modern corporate web platform for Gurugram's authorized Fujiyama distributor.</li>
-        <li>Interactive solar capacity & ROI calculators, PM Surya Ghar Yojana subsidy guidance.</li>
-        <li>High-conversion lead funnels and local SEO architecture.</li>
-      </ul>
-      <p><b>Stack:</b> <code>Next.js 15</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS v4</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✈️ VTOL RC Aircraft</h3>
-      <p><b>3D-Printed Vertical Take-Off Aerodynamics</b></p>
-      <ul>
-        <li>Lightweight fixed-wing VTOL aircraft fabricated via additive manufacturing.</li>
-        <li>Utilizes foaming lightweight LW-PLA filament to optimize thrust-to-weight ratios.</li>
-        <li>Combines multi-rotor hover transitions with high-efficiency forward cruise.</li>
-      </ul>
-      <p><b>Stack:</b> <code>FDM 3D Printing</code> <code>LW-PLA / PETG</code> <code>SolidWorks CAD</code> <code>Aerodynamics</code></p>
+      <p><b>Stack:</b> <code>FastMCP</code> <code>Python</code> <code>FastAPI</code> <code>LiveKit Agents</code> <code>Claude API</code> <code>Gemini</code> <code>ChromaDB</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technical Arsenal & Ecosystem
+### Technical Competencies & Software Tools
 
-<div align="center">
-
-| Domain | Technologies |
+| Domain | Technologies & Software |
 |---|---|
-| **CAD, 3D & Mechanical** | <img src="https://img.shields.io/badge/SolidWorks_CAD-5C5C99?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/MIT_OCW_CAD_Principles-292966?style=flat-square&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/FDM_3D_Printing-5C5C99?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/LW--PLA_Foaming_Aero-292966?style=flat-square&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/OrcaSlicer_/_PrusaSlicer-5C5C99?style=flat-square&logoColor=white" /> |
-| **Languages & Systems** | <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css" alt="Languages" /> <img src="https://img.shields.io/badge/Compact_zk--SNARKs-292966?style=flat-square&logoColor=CCCCFF" /> |
-| **Frameworks & Monorepos** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,fastapi,express,nodejs" alt="Frameworks" /> <img src="https://img.shields.io/badge/Turborepo-5C5C99?style=flat-square&logo=turborepo&logoColor=white" /> <img src="https://img.shields.io/badge/Fastify-292966?style=flat-square&logo=fastify&logoColor=white" /> |
-| **Web Design & 3D Spatial** | <img src="https://skillicons.dev/icons?i=threejs,figma" alt="3D and Figma" /> <img src="https://img.shields.io/badge/React_Three_Fiber-5C5C99?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/GSAP_Animation-292966?style=flat-square&logo=greensock&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-5C5C99?style=flat-square&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Design_Systems-292966?style=flat-square&logoColor=CCCCFF" /> |
-| **AI, Voice & Agents** | <img src="https://img.shields.io/badge/Google_Gemini_2.5-5C5C99?style=flat-square&logo=googlegemini&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/Claude_API-292966?style=flat-square&logo=anthropic&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/FastMCP_Servers-5C5C99?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/LiveKit_WebRTC-292966?style=flat-square&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/ChromaDB-5C5C99?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Faster--Whisper-292966?style=flat-square&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/Vapi.ai_/_ElevenLabs-5C5C99?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn_SVM-292966?style=flat-square&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/PuLP_LP_Solver-5C5C99?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Librosa_Audio_ML-292966?style=flat-square&logoColor=CCCCFF" /> |
-| **Automation & Cloud** | <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-292966?style=flat-square&logo=whatsapp&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/Google_Pub/Sub-5C5C99?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-292966?style=flat-square&logo=n8n&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/Make.com-5C5C99?style=flat-square&logo=make&logoColor=white" /> <img src="https://img.shields.io/badge/BullMQ_/_Redis-292966?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare_R2-5C5C99?style=flat-square&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Razorpay_UPI_Autopay-292966?style=flat-square&logoColor=CCCCFF" /> |
-| **Database & DevOps** | <img src="https://skillicons.dev/icons?i=postgres,redis,prisma,firebase,supabase,docker,gcp,vercel" alt="Databases and Cloud" /> |
-| **Robotics & Embedded** | <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /> <img src="https://img.shields.io/badge/ESP32-292966?style=flat-square&logo=espressif&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/Dual_HC--SR04_Ultrasonics-5C5C99?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Haptic_Feedback_Motors-292966?style=flat-square&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/Power_Circuit_Regulators-5C5C99?style=flat-square&logoColor=white" /> |
-| **Web3 & ZK Crypto** | <img src="https://img.shields.io/badge/Midnight_Network_SDK-292966?style=flat-square&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/zk--SNARKs_(BLS12--381)-5C5C99?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle_Threshold_Consensus-292966?style=flat-square&logoColor=CCCCFF" /> |
-
-</div>
+| **Core Languages** | `TypeScript` (73%) • `Python` (12%) • `JavaScript` (10%) • `C++` (Arduino Wire) • `SQL` • `Compact` |
+| **Mechanical CAD & 3D Printing** | `SolidWorks` • `OrcaSlicer` • `PrusaSlicer` • `Blender` • Foaming LW-PLA & PETG Manufacturing |
+| **AI, Voice & Agents** | `Google Gemini API` • `Anthropic Claude API` • `FastMCP` • `LiveKit WebRTC` • `Vapi.ai` • `ElevenLabs` • `ChromaDB` |
+| **Full-Stack & Cloud Architecture** | `Next.js 15` • `React 19` • `Fastify` • `Turborepo` • `Prisma ORM` • `PostgreSQL` • `Redis` • `BullMQ` • `Docker` |
+| **Workflow Automation & APIs** | `n8n` • `Make.com` • `WhatsApp Business Cloud API` • `Google Cloud Pub/Sub` • `Razorpay UPI Autopay` |
+| **Embedded Systems & Hardware** | `Arduino Nano` • `ESP32` • `HC-SR04 Ultrasonics` • `PWM Haptics` • `L7805CV Power Regulators` |
+| **Web3 & Cryptography** | `Midnight Network SDK` • `Compact Smart Contracts` • `zk-SNARKs (BLS12-381)` • `Oracle Consensus` |
 
 ---
 
-## 🏆 Hackathons, Competitions & Honors
+### Complete Project Archive (20 Audited Builds)
 
-- 🥇 **Indraprastha "The Optimizers" Competition (2026):** Developed **CivicGrid-AI** (ML energy forecasting + Linear Programming microgrid allocation).
-- 🌐 **Midnight Network Web3 Hackathon (2026):** Built **Credipro** (Privacy-preserving DeFi lending via zk-SNARKs and oracle consensus).
-- 💡 **Bharat Innovation Challenge 2.0 (BIC):** Conceived and built **Setu** (Smart Navigation Cane for the visually impaired).
-- 🤖 **AI Hackfest 2026:** Developed and deployed **Omniversal-AI** ([Live Demo](https://omniversal-ai.vercel.app)).
-- 📈 **NeuroLogic '26 Datathon:** Engineered multi-challenge NLP pipelines with **NeuroCast**.
-- 🌱 **Eureka! Junior:** Presented **PolluGone** photo-catalytic air-purifying architectural tiles.
-- ⚡ **TechCircuit Hackathon:** Circuitry and hardware innovation build sprint.
-- 📐 **Olympiads & Academic Focus:** Active preparation in Combinatorics, Number Theory, Plane Geometry & Algebra for **IOQM, ZCO, and ZIO**.
-
----
-
-## 📂 Complete Project Archive & Directory
-
-A comprehensive catalog of all technical builds, ventures, hardware prototypes, and competition projects:
-
-| # | Project Name | Domain / Category | Primary Tech Stack | Description |
+| # | Project Name | Domain / Category | Primary Tech Stack | Status / Link |
 |---|---|---|---|---|
-| 1 | **VyaparLaunch SI** | Commercial SaaS / Monorepo | Turborepo, Fastify, Gemini 2.5, WhatsApp API, BullMQ | Review autopilot & WhatsApp damage control for local businesses. |
-| 2 | **Divergit Client Automations** | Agency & Automation Workflows | n8n, Make.com, Python, Vapi.ai, WhatsApp API | Autonomous multi-channel pipelines eliminating B2B bottlenecks. |
-| 3 | [**Credipro**](https://github.com/nova-rishabh/Credipro) | Web3 / Zero-Knowledge DeFi | Midnight SDK, Compact (zk-SNARKs), Express, React | Privacy-preserving decentralized lending protocol with oracle consensus. |
-| 4 | [**CivicGrid-AI**](https://github.com/nova-rishabh/civicgrid-ai) | Smart Grid / Optimization | Python, Streamlit, Scikit-learn, PuLP (LP) | Solar & kinetic energy prediction with Linear Programming allocation. |
-| 5 | **Setu (Smart Navigation Cane)** | Assistive Embedded Hardware | Arduino Nano, Dual HC-SR04, Haptics, 20mm PVC | Low-cost obstacle-detecting smart walking cane for the visually impaired. |
-| 6 | **EchoBind** | Edge AI / Desktop Automation | Python, PyAudio, Librosa (MFCC), Scikit-Learn SVM | Desk tap acoustic localization daemon triggering custom OS macros. |
-| 7 | **F.R.I.D.A.Y Voice AI Suite** | Voice AI & Desktop Agents | FastAPI, FastMCP, LiveKit, Gemini, Claude, ChromaDB | Suite of 6 Iron Man voice AI assistants with system-level tool calling. |
-| 8 | **PolluGone** | CleanTech / Material Innovation | TiO₂ Photocatalysis, Market Analytics, BMC | Architectural tiles breaking down VOCs and NOx under natural sunlight. |
-| 9 | [**VOLTMEN Solar**](https://voltmensolar.com) | Corporate Web Application | Next.js 15, React 19, TypeScript, Tailwind CSS | Corporate solar platform with capacity calculators and local SEO funnels. |
-| 10 | [**VOLTMEN Energy**](https://voltmenenergy.com) | Industrial Web Platform | Web Infrastructure, Structured Schema, SEO | Portal for commercial power equipment, transformers, and HT line supplies. |
-| 11 | **VTOL RC Aircraft** | Robotics / Aerospace Hardware | FDM 3D Printing (LW-PLA), Brushless Motors, CAD | Fixed-wing vertical take-off RC plane using foaming lightweight filament. |
-| 12 | **Non-Profit Learning Support** | Social Impact / Neurodiversity | Client-Side Architecture, Privacy Screeners | Free web platform providing universal tools & evidence-based self-screeners. |
-| 13 | [**Omniversal-AI**](https://github.com/nova-rishabh/Omniversal-AI) | Generative AI Web App | Next.js 16, React 19, Gemini AI, Framer Motion | AI Roast web app built and deployed for AI Hackfest 2026. |
-| 14 | [**NeuroCast**](https://github.com/nova-rishabh/NeuroCast) | NLP / Data Science | JavaScript, Node.js, NLP Pipelines | Multi-challenge NLP platform built for the NeuroLogic '26 Datathon. |
-| 15 | **PulseAI** | Multi-Agent Market Intelligence | Python, Multi-Agent Systems, Web Scraping | Autonomous competitor intelligence engine built for VibeFlow x LovHack. |
-| 16 | **JARVIC** | Conversational Voice Companion | Python, `speech_recognition`, `pyttsx3`, APIs | Python voice assistant with tool integrations; predecessor to F.R.I.D.A.Y. |
-| 17 | **Hack for Hackers** | Hackathon Acceleration Engine | Next.js 16, Playwright, ScrapeGraph, Jules AI | Scrapes Devpost briefs and scaffolds winning repositories and AI prompts. |
-| 18 | **Surya Mitr** | Solar Enterprise Architecture | 3-Tier Enterprise Blueprint (Firebase/FlutterFlow) | 3-tier mobile architecture for solar field agents, site surveys, and pricing. |
-| 19 | **Bijli Kart** | Industrial E-Commerce | Shopify, Catalog Management | Earlier e-commerce store for industrial electrical distribution equipment. |
-| 20 | **CrisisLens** | Computer Vision / Multi-Modal AI | Python, Computer Vision / NLP | Workspace initialized for real-time disaster detection and visual analysis. |
+| 01 | **VyaparLaunch SI** | Commercial SaaS Monorepo | Turborepo, Fastify, Gemini 2.5, WhatsApp API, Redis | Proprietary / Production |
+| 02 | **Divergit Agency** | B2B Workflow Automations | n8n, Make.com, Python, Vapi.ai, ElevenLabs | [divergit.com](https://divergit.com) |
+| 03 | **Setu (Smart Navigation Cane)** | Assistive Hardware | Arduino Nano, Dual HC-SR04, Haptics, PVC | BIC 2.0 Submission |
+| 04 | [**Credipro**](https://github.com/nova-rishabh/Credipro) | Zero-Knowledge DeFi | Midnight SDK, Compact (zk-SNARKs), Express, React | [GitHub](https://github.com/nova-rishabh/Credipro) |
+| 05 | [**CivicGrid-AI**](https://github.com/nova-rishabh/civicgrid-ai) | Smart Grid Optimization | Python, Streamlit, Scikit-learn, PuLP (LP) | [GitHub](https://github.com/nova-rishabh/civicgrid-ai) |
+| 06 | **F.R.I.D.A.Y Voice AI Suite** | Systems AI & MCP Tools | FastAPI, FastMCP, LiveKit, Claude, ChromaDB | Working Suite |
+| 07 | **EchoBind** | Edge AI & Signal Processing | Python, PyAudio, Librosa (MFCC), Scikit-Learn | Internal Tool |
+| 08 | [**VOLTMEN Solar**](https://voltmensolar.com) | Corporate Web Platform | Next.js 15, React 19, TypeScript, Tailwind CSS v4 | [voltmensolar.com](https://voltmensolar.com) |
+| 09 | [**VOLTMEN Energy**](https://voltmenenergy.com) | Industrial Web Platform | Web Infrastructure, Structured Schema, SEO | [voltmenenergy.com](https://voltmenenergy.com) |
+| 10 | **Foam-Cored VTOL RC Aircraft** | Aerospace Hardware | Foaming LW-PLA, PETG, Brushless Motors, CAD | Prototype Built |
+| 11 | [**Omniversal-AI**](https://github.com/nova-rishabh/Omniversal-AI) | Generative AI Web App | Next.js 16, React 19, Google Gemini, Framer Motion | [omniversal-ai.vercel.app](https://omniversal-ai.vercel.app) |
+| 12 | [**NeuroCast**](https://github.com/nova-rishabh/NeuroCast) | NLP / Data Science | JavaScript, Node.js, NLP Classification Pipelines | [GitHub](https://github.com/nova-rishabh/NeuroCast) |
+| 13 | **PolluGone** | CleanTech Materials | Titanium Dioxide Photocatalysis, Market Analytics | Eureka! Junior |
+| 14 | **Non-Profit Learning Support** | Cognitive Accessibility | Client-Side Architecture, Privacy Screeners | Live Platform |
+| 15 | **PulseAI** | Multi-Agent Intelligence | Python, Multi-Agent Systems, Web Scraping | Hackathon Project |
+| 16 | **JARVIC** | Conversational Companion | Python, `speech_recognition`, `pyttsx3`, APIs | Archived Core |
+| 17 | **Hack for Hackers** | Hackathon Engine | Next.js 16, Playwright, ScrapeGraph, Jules AI | Internal Tool |
+| 18 | **Surya Mitr** | Solar Enterprise System | 3-Tier Enterprise Blueprint (Firebase/FlutterFlow) | Enterprise Spec |
+| 19 | **Bijli Kart** | Industrial E-Commerce | Shopify, Catalog Management | Managed Store |
+| 20 | **CrisisLens** | Computer Vision Research | Python, Computer Vision, Geospatial Indexing | Research Workspace |
+
+---
+
+### Competitions, Hackathons & Honors
+
+- 🥇 **Winner — Indraprastha "The Optimizers" Competition (2026):** Developed CivicGrid-AI (ML energy forecasting + Linear Programming microgrid allocation).
+- 💡 **Finalist — Bharat Innovation Challenge 2.0 (BIC):** Conceived and engineered the Setu Smart Navigation Cane with Team Nova.
+- 🌐 **Participant — Midnight Network Web3 Hackathon (2026):** Developed Credipro zero-knowledge lending protocol.
+- 🤖 **Deployment — AI Hackfest 2026:** Developed and deployed Omniversal-AI ([omniversal-ai.vercel.app](https://omniversal-ai.vercel.app)).
+- 📈 **Datathon — NeuroLogic '26:** Engineered multi-challenge NLP classification pipelines with NeuroCast.
+- 🌱 **Finalist — Eureka! Junior:** Presented PolluGone photo-catalytic air-purifying architectural panels.
+- 📐 **Olympiad Pipeline:** Intensive mathematical preparation in Number Theory, Combinatorics, and Plane Geometry for **IOQM, ZCO, and ZIO**.
+- 🎓 **Young CEO Program:** Completed entrepreneurship and venture leadership immersion at IIT Delhi.
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Together
+### Connect & Collaborate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-292966?style=for-the-badge&logo=linkedin&logoColor=CCCCFF&labelColor=141432)](https://www.linkedin.com/in/rishabh-kataria-953a65268/)
-[![Divergit](https://img.shields.io/badge/Divergit-Agency_Website-5C5C99?style=for-the-badge&logo=vercel&logoColor=white&labelColor=292966)](https://divergit.com)
-[![Voltmen](https://img.shields.io/badge/Voltmen_Solar-Corporate_Site-292966?style=for-the-badge&logo=solar&logoColor=CCCCFF&labelColor=141432)](https://voltmensolar.com)
-[![Email](https://img.shields.io/badge/Email-rishabhkatariajs@gmail.com-5C5C99?style=for-the-badge&logo=gmail&logoColor=white&labelColor=292966)](mailto:rishabhkatariajs@gmail.com)
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=292966,5C5C99,A3A3CC,CCCCFF&height=100&section=footer" width="100%" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishabh-kataria-953a65268/"><img src="https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-292966?style=flat-square&logo=linkedin&logoColor=CCCCFF" alt="LinkedIn" /></a>
+  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Agency-divergit.com-141432?style=flat-square&logo=vercel&logoColor=CCCCFF" alt="Divergit" /></a>
+  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Solar-voltmensolar.com-292966?style=flat-square&logo=solar&logoColor=CCCCFF" alt="Voltmen" /></a>
+  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-rishabhkatariajs@gmail.com-141432?style=flat-square&logo=gmail&logoColor=CCCCFF" alt="Email" /></a>
+</p>
 
 </div>
