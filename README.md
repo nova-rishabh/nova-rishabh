@@ -1,26 +1,26 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,40&height=240&section=header&text=Rishabh%20Kataria&fontSize=52&fontAlignY=34&subtext=14%20y/o%20Tech%20Founder%20•%20AI%20%26%20Hardware%20Builder%20•%20Full-Stack%20Engineer&subFontSize=16&subfontAlignY=58&theme=tokyonight" width="100%" alt="Rishabh Kataria Banner" />
+<!-- Hero Banner in "Under the Moonlight" Palette -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=292966,5C5C99,A3A3CC,CCCCFF&height=240&section=header&text=Rishabh%20Kataria&fontSize=50&fontAlignY=34&subtext=14%20y/o%20Tech%20Founder%20•%20AI%20%26%20Hardware%20Builder%20•%20Full-Stack%20Engineer&subFontSize=16&subfontAlignY=58" width="100%" alt="Rishabh Kataria Banner" />
 
-<!-- Dynamic Animated Typing Title -->
+<!-- Dynamic Animated Typing Title in Moonlight Luminous (#CCCCFF) with Space Grotesk font -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=14-Year-Old+Founder+of+Divergit+%26+VyaparLaunch+SI;Building+Autonomous+AI+Agents%2C+Voice+Pipelines+%26+FastMCP;Prototyping+Assistive+Hardware+%26+3D-Printed+Aerodynamics;Zero-Knowledge+Cryptography+%26+Linear+Programming+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=CCCCFF&center=true&vCenter=true&width=750&lines=14-Year-Old+Founder+of+Divergit+%26+VyaparLaunch+SI;Building+Autonomous+AI+Agents%2C+Voice+Pipelines+%26+FastMCP;Prototyping+Assistive+Hardware+%26+3D-Printed+Aerodynamics;Zero-Knowledge+Cryptography+%26+Linear+Programming+Hacker" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Quick Info Badges -->
+<!-- Brand Badges with "Under the Moonlight" Hex Tokens -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-1f2937?style=for-the-badge&logo=googlemaps&logoColor=red" alt="Gurugram" />
-  <img src="https://img.shields.io/badge/Contributions-1%2C720%2B-238636?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
-  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Founder-Divergit.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Divergit" /></a>
-  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Voltmen_Solar-voltmensolar.com-0B3B60?style=for-the-badge&logo=solar&logoColor=FFD700" alt="Voltmen Solar" /></a>
-  <a href="https://linkedin.com/in/rishabh-kataria-953a65268"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-292966?style=for-the-badge&logo=googlemaps&logoColor=CCCCFF&labelColor=141432" alt="Gurugram" />
+  <img src="https://img.shields.io/badge/Contributions-1%2C720%2B-5C5C99?style=for-the-badge&logo=github&logoColor=CCCCFF&labelColor=292966" alt="Contributions" />
+  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Founder-Divergit.com-292966?style=for-the-badge&logo=vercel&logoColor=CCCCFF&labelColor=141432" alt="Divergit" /></a>
+  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Voltmen_Solar-voltmensolar.com-5C5C99?style=for-the-badge&logo=solar&logoColor=CCCCFF&labelColor=292966" alt="Voltmen Solar" /></a>
+  <a href="https://linkedin.com/in/rishabh-kataria-953a65268"><img src="https://img.shields.io/badge/LinkedIn-Connect-292966?style=for-the-badge&logo=linkedin&logoColor=CCCCFF&labelColor=141432" alt="LinkedIn" /></a>
+  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-5C5C99?style=for-the-badge&logo=gmail&logoColor=CCCCFF&labelColor=292966" alt="Email" /></a>
 </p>
 
-### ⚡ *"Bridging the gap between ambitious ideas and tangible reality—across software, AI, hardware, and business."*
+### 🌙 *"Bridging the gap between ambitious ideas and tangible reality—across software, AI, hardware, and business."*
 
 </div>
 
@@ -42,24 +42,24 @@ I am a **14-year-old developer, hardware hacker, and founder** based in Gurugram
 
 <div align="center">
 
-<!-- Real-time Contribution Graph -->
+<!-- Real-time Contribution Graph (Tinted to Muted Periwinkle #A3A3CC) -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/409eff/nova-rishabh" alt="nova-rishabh's GitHub Activity Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/A3A3CC/nova-rishabh" alt="nova-rishabh's GitHub Activity Chart" width="100%" />
 </p>
 
-<!-- GitHub Stats & Streak Cards (hide_rank enabled) -->
+<!-- GitHub Stats & Streak Cards in Custom "Under the Moonlight" Theme -->
 <p align="center">
   <a href="https://github.com/nova-rishabh">
-    <img src="https://github-readme-stats.vercel.app/api?username=nova-rishabh&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Rishabh's GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nova-rishabh&show_icons=true&hide_rank=true&bg_color=141432&title_color=CCCCFF&icon_color=CCCCFF&text_color=A3A3CC&border_color=5C5C99&border_radius=10" alt="Rishabh's GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/nova-rishabh">
-    <img src="https://streak-stats.demolab.com/?user=nova-rishabh&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="Rishabh's GitHub Streak" height="165" />
+    <img src="https://streak-stats.demolab.com/?user=nova-rishabh&background=141432&border=5C5C99&stroke=CCCCFF&ring=CCCCFF&fire=CCCCFF&currStreakNum=CCCCFF&sideNums=A3A3CC&currStreakLabel=CCCCFF&sideLabels=A3A3CC&dates=A3A3CC&border_radius=10" alt="Rishabh's GitHub Streak" height="165" />
   </a>
 </p>
 
-<!-- Top Languages Card -->
+<!-- Top Languages Card in Custom "Under the Moonlight" Theme -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nova-rishabh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nova-rishabh&layout=compact&bg_color=141432&title_color=CCCCFF&text_color=A3A3CC&border_color=5C5C99&border_radius=10" alt="Top Languages" height="165" />
 </p>
 
 </div>
@@ -193,10 +193,10 @@ I am a **14-year-old developer, hardware hacker, and founder** based in Gurugram
 |---|---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css" alt="Languages" /> |
 | **Frameworks & Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,fastapi,express,nodejs" alt="Frameworks" /> |
-| **AI, Voice & Agents** | <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Vapi.ai-000000?style=flat-square" /> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square" /> <img src="https://img.shields.io/badge/FastMCP-009688?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> |
-| **Automation & Messaging** | <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Make.com-6D32EC?style=flat-square&logo=make&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> |
+| **AI, Voice & Agents** | <img src="https://img.shields.io/badge/Google_Gemini-5C5C99?style=flat-square&logo=googlegemini&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/Claude_API-292966?style=flat-square&logo=anthropic&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/Vapi.ai-141432?style=flat-square&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/ElevenLabs-292966?style=flat-square&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/FastMCP-5C5C99?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-292966?style=flat-square&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/Scikit--Learn-5C5C99?style=flat-square&logo=scikitlearn&logoColor=white" /> |
+| **Automation & Messaging** | <img src="https://img.shields.io/badge/n8n-292966?style=flat-square&logo=n8n&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/Make.com-5C5C99?style=flat-square&logo=make&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-292966?style=flat-square&logo=whatsapp&logoColor=CCCCFF" /> |
 | **Database & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,redis,prisma,firebase,supabase,docker,gcp,vercel" alt="Databases and Cloud" /> |
-| **Hardware & Robotics** | <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Ultrasonic_HC--SR04-00599C?style=flat-square" /> <img src="https://img.shields.io/badge/3D_Printing_FDM-00A4E4?style=flat-square" /> <img src="https://img.shields.io/badge/SolidWorks_CAD-D32F2F?style=flat-square" /> |
+| **Hardware & Robotics** | <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /> <img src="https://img.shields.io/badge/ESP32-292966?style=flat-square&logo=espressif&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/Ultrasonic_HC--SR04-5C5C99?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/3D_Printing_FDM-292966?style=flat-square&logoColor=CCCCFF" /> <img src="https://img.shields.io/badge/SolidWorks_CAD-5C5C99?style=flat-square&logoColor=white" /> |
 
 </div>
 
@@ -248,12 +248,12 @@ A comprehensive catalog of all technical builds, ventures, hardware prototypes, 
 
 ### 🤝 Let's Connect & Build Together
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-kataria-953a65268/)
-[![Divergit](https://img.shields.io/badge/Divergit-Agency_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://divergit.com)
-[![Voltmen](https://img.shields.io/badge/Voltmen_Solar-Corporate_Site-0B3B60?style=for-the-badge&logo=solar&logoColor=FFD700)](https://voltmensolar.com)
-[![Email](https://img.shields.io/badge/Email-rishabhkatariajs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhkatariajs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-292966?style=for-the-badge&logo=linkedin&logoColor=CCCCFF&labelColor=141432)](https://www.linkedin.com/in/rishabh-kataria-953a65268/)
+[![Divergit](https://img.shields.io/badge/Divergit-Agency_Website-5C5C99?style=for-the-badge&logo=vercel&logoColor=white&labelColor=292966)](https://divergit.com)
+[![Voltmen](https://img.shields.io/badge/Voltmen_Solar-Corporate_Site-292966?style=for-the-badge&logo=solar&logoColor=CCCCFF&labelColor=141432)](https://voltmensolar.com)
+[![Email](https://img.shields.io/badge/Email-rishabhkatariajs@gmail.com-5C5C99?style=for-the-badge&logo=gmail&logoColor=white&labelColor=292966)](mailto:rishabhkatariajs@gmail.com)
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,40&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=292966,5C5C99,A3A3CC,CCCCFF&height=100&section=footer" width="100%" />
 
 </div>
