@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Minimalist Slate-Indigo Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=141432,292966,141432&height=180&section=header&text=Rishabh%20Kataria&fontSize=42&fontAlignY=42&subtext=Founder%20%E2%80%A2%20Systems%20%26%20AI%20Engineer%20%E2%80%A2%20Hardware%20Builder&subFontSize=16&subfontAlignY=68" width="100%" alt="Rishabh Kataria" />
+<!-- Custom Vector Header Banner -->
+<img src="assets/banner.svg" width="100%" alt="Rishabh Kataria" />
 
 <!-- Dynamic Animated Typing Title in #CCCCFF with Space Grotesk -->
 <a href="https://github.com/nova-rishabh">
