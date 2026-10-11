@@ -1,34 +1,44 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=220&section=header&text=Rishabh%20Kataria&fontSize=46&fontAlignY=36&subtext=14%20y/o%20Tech%20Builder%20•%20Founder%20of%20Divergit%20%26%20VyaparLaunch%20SI%20•%20Hardware%20%26%20AI%20Innovator&subFontSize=16&subfontAlignY=58&theme=tokyonight" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,40&height=240&section=header&text=Rishabh%20Kataria&fontSize=52&fontAlignY=34&subtext=14%20y/o%20Tech%20Founder%20•%20AI%20%26%20Hardware%20Builder%20•%20Full-Stack%20Engineer&subFontSize=16&subfontAlignY=58&theme=tokyonight" width="100%" alt="Rishabh Kataria Banner" />
 
+<!-- Dynamic Animated Typing Title -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=14-Year-Old+Founder+of+Divergit+%26+VyaparLaunch+SI;Building+Autonomous+AI+Agents%2C+Voice+Pipelines+%26+FastMCP;Prototyping+Assistive+Hardware+%26+3D-Printed+Aerodynamics;Zero-Knowledge+Cryptography+%26+Linear+Programming+Hacker" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Quick Info Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/rishabh-kataria-953a65268"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Divergit-divergit.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Divergit" /></a>
+  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-1f2937?style=for-the-badge&logo=googlemaps&logoColor=red" alt="Gurugram" />
+  <img src="https://img.shields.io/badge/Contributions-1%2C720%2B-238636?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Founder-Divergit.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Divergit" /></a>
   <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Voltmen_Solar-voltmensolar.com-0B3B60?style=for-the-badge&logo=solar&logoColor=FFD700" alt="Voltmen Solar" /></a>
-  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/rishabh-kataria-953a65268"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### ⚡ *"Building software, AI agents, embedded hardware, and ventures that solve real problems."*
+### ⚡ *"Bridging the gap between ambitious ideas and tangible reality—across software, AI, hardware, and business."*
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile & Core Focus
 
-I am a **14-year-old developer, hardware hacker, and entrepreneur** based in Gurugram, India. I don't just explore tech—I build production systems, compete in national hackathons and datathons, and engineer end-to-end automations for real businesses.
+I am a **14-year-old developer, hardware hacker, and founder** based in Gurugram, India. My approach centers on turning ideas into functional, production-grade products rather than stopping at concepts.
 
-- 🚀 **Founder @ Divergit** (`divergit.com`) – Engineering autonomous AI pipelines, Vapi voice bots, and B2B workflow automations.
-- 🏢 **Founder @ VyaparLaunch SI** – Production SaaS monorepo automating Google Reviews & WhatsApp damage control for Indian SMBs.
-- ⚡ **Digital & Tech Lead @ Voltmen Energy & Voltmen Solar** – Powering corporate web platforms, lead infrastructure, and engineering layouts.
-- 🛠️ **Hardware Maker** – Prototyping assistive tech (**Setu Smart Cane**) with Arduino & ultrasonics, and building 3D-printed **VTOL RC aircraft**.
-- 🧠 **AI & ML Engineer** – Developing edge acoustic localization (**EchoBind**), privacy-preserving zero-knowledge DeFi protocols (**Credipro**), and constrained Linear Programming engines (**CivicGrid-AI**).
+* 🏢 **Founder @ VyaparLaunch SI:** Built a commercial SaaS monorepo automating Google Business Profile review intelligence and WhatsApp damage control for Indian retail/service SMBs.
+* 🚀 **Founder @ Divergit (`divergit.com`):** Operating a digital engineering agency delivering high-ticket B2B automations, Vapi voice agents, and multi-stage workflow pipelines.
+* ⚡ **Digital & Tech Lead @ VOLTMEN:** Powering corporate web architectures (`voltmensolar.com`, `voltmenenergy.com`), lead acquisition funnels, and technical solar layouts for the family energy business.
+* 🛠️ **Embedded & Aerospace Hardware:** Engineering the **Setu Smart Navigation Cane** (dual ultrasonic & haptic assistive device for BIC 2.0) and fabricating lightweight 3D-printed **VTOL RC aircraft** using foaming LW-PLA.
+* 🧠 **AI, ML & Cryptography:** Architecting real-time edge audio ML (**EchoBind**), privacy-preserving zero-knowledge DeFi lending (**Credipro** on Midnight Network), and constrained mathematical optimization engines (**CivicGrid-AI**).
 
 ---
 
-## 📊 GitHub Analytics & Contribution Activity
+## 📊 GitHub Analytics & Activity Metrics
 
 <div align="center">
 
@@ -37,10 +47,10 @@ I am a **14-year-old developer, hardware hacker, and entrepreneur** based in Gur
   <img src="https://ghchart.rshah.org/409eff/nova-rishabh" alt="nova-rishabh's GitHub Activity Chart" width="100%" />
 </p>
 
-<!-- GitHub Stats & Streak Cards -->
+<!-- GitHub Stats & Streak Cards (hide_rank enabled) -->
 <p align="center">
   <a href="https://github.com/nova-rishabh">
-    <img src="https://github-readme-stats.vercel.app/api?username=nova-rishabh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Rishabh's GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nova-rishabh&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Rishabh's GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/nova-rishabh">
     <img src="https://streak-stats.demolab.com/?user=nova-rishabh&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="Rishabh's GitHub Streak" height="165" />
@@ -64,10 +74,10 @@ I am a **14-year-old developer, hardware hacker, and entrepreneur** based in Gur
       <h3>🏢 VyaparLaunch SI</h3>
       <p><b>Super Intelligence for Local Businesses (SaaS Monorepo)</b></p>
       <ul>
-        <li>Real-time Google Business Profile review ingestion via Cloud Pub/Sub.</li>
-        <li>Gemini 2.5 drafts multilingual AI replies; auto-publishes 4–5★ positive feedback.</li>
-        <li>Directs critical 1–3★ negative reviews to owner's WhatsApp with interactive action buttons.</li>
-        <li>Automated festival banner generation & Razorpay UPI recurring micro-billing.</li>
+        <li>Real-time Google Business Profile review ingestion via Cloud Pub/Sub webhooks.</li>
+        <li>Gemini 2.5 drafts multilingual AI replies; auto-publishes 4–5★ positive reviews with safety buffers.</li>
+        <li>Routes critical 1–3★ negative feedback directly to owner's WhatsApp with interactive action buttons.</li>
+        <li>Automated seasonal festival banner generator & Razorpay UPI recurring micro-billing.</li>
       </ul>
       <p><b>Stack:</b> <code>Turborepo</code> <code>TypeScript</code> <code>Fastify</code> <code>Prisma</code> <code>Gemini AI</code> <code>WhatsApp Cloud API</code> <code>BullMQ/Redis</code></p>
     </td>
@@ -78,7 +88,7 @@ I am a **14-year-old developer, hardware hacker, and entrepreneur** based in Gur
         <li>High-ticket B2B workflow orchestration eliminating manual bottlenecks.</li>
         <li>Multi-stage WhatsApp Business API nurturing and qualification funnels.</li>
         <li>Autonomous Vapi.ai / ElevenLabs conversational voice agents with tool-calling.</li>
-        <li>Custom Python webhooks, CRM sync pipelines, and cloud automation.</li>
+        <li>Custom Python webhooks, CRM sync pipelines, and cloud automations.</li>
       </ul>
       <p><b>Stack:</b> <code>n8n</code> <code>Make.com</code> <code>Python</code> <code>Vapi.ai</code> <code>ElevenLabs</code> <code>WhatsApp API</code></p>
     </td>
@@ -89,7 +99,7 @@ I am a **14-year-old developer, hardware hacker, and entrepreneur** based in Gur
       <p><b>Privacy-Preserving DeFi Lending via zk-SNARKs</b></p>
       <ul>
         <li>Solves the "Sybil default paradox" in Web3 uncollateralized lending.</li>
-        <li>Borrowers prove creditworthiness with zero-knowledge proofs without revealing identity.</li>
+        <li>Borrowers prove creditworthiness with zero-knowledge proofs without revealing identity or scores.</li>
         <li>2-of-3 decentralized oracle consensus decrypts identity strictly upon default under legal MLA.</li>
       </ul>
       <p><b>Stack:</b> <code>Midnight SDK</code> <code>Compact</code> <code>TypeScript</code> <code>Express</code> <code>React</code> <code>Docker</code></p>
@@ -99,7 +109,7 @@ I am a **14-year-old developer, hardware hacker, and entrepreneur** based in Gur
       <p><b>Microgrid Energy Forecasting & Linear Programming Engine</b></p>
       <ul>
         <li>Built for "The Optimizers" competition at Indraprastha International School.</li>
-        <li>Scikit-Learn ML models forecast solar and piezoelectric kinetic foot-traffic energy.</li>
+        <li>Scikit-Learn ML models forecast solar and piezoelectric kinetic foot-traffic generation.</li>
         <li>Constrained Linear Programming (PuLP) guarantees 100% power to emergency/safety loads before public distribution.</li>
       </ul>
       <p><b>Stack:</b> <code>Python</code> <code>Streamlit</code> <code>Scikit-learn</code> <code>PuLP</code> <code>Plotly</code> <code>Pandas</code></p>
@@ -184,7 +194,7 @@ I am a **14-year-old developer, hardware hacker, and entrepreneur** based in Gur
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css" alt="Languages" /> |
 | **Frameworks & Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,fastapi,express,nodejs" alt="Frameworks" /> |
 | **AI, Voice & Agents** | <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Vapi.ai-000000?style=flat-square" /> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square" /> <img src="https://img.shields.io/badge/FastMCP-009688?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> |
-| **Automation & Messaging** | <img src="https://skillicons.dev/icons?i=bots" alt="n8n" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Make.com-6D32EC?style=flat-square&logo=make&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> |
+| **Automation & Messaging** | <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Make.com-6D32EC?style=flat-square&logo=make&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> |
 | **Database & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,redis,prisma,firebase,supabase,docker,gcp,vercel" alt="Databases and Cloud" /> |
 | **Hardware & Robotics** | <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Ultrasonic_HC--SR04-00599C?style=flat-square" /> <img src="https://img.shields.io/badge/3D_Printing_FDM-00A4E4?style=flat-square" /> <img src="https://img.shields.io/badge/SolidWorks_CAD-D32F2F?style=flat-square" /> |
 
@@ -205,6 +215,35 @@ I am a **14-year-old developer, hardware hacker, and entrepreneur** based in Gur
 
 ---
 
+## 📂 Complete Project Archive & Directory
+
+A comprehensive catalog of all technical builds, ventures, hardware prototypes, and competition projects:
+
+| # | Project Name | Domain / Category | Primary Tech Stack | Description |
+|---|---|---|---|---|
+| 1 | **VyaparLaunch SI** | Commercial SaaS / Monorepo | Turborepo, Fastify, Gemini 2.5, WhatsApp API, BullMQ | Review autopilot & WhatsApp damage control for local businesses. |
+| 2 | **Divergit Client Automations** | Agency & Automation Workflows | n8n, Make.com, Python, Vapi.ai, WhatsApp API | Autonomous multi-channel pipelines eliminating B2B bottlenecks. |
+| 3 | [**Credipro**](https://github.com/nova-rishabh/Credipro) | Web3 / Zero-Knowledge DeFi | Midnight SDK, Compact (zk-SNARKs), Express, React | Privacy-preserving decentralized lending protocol with oracle consensus. |
+| 4 | [**CivicGrid-AI**](https://github.com/nova-rishabh/civicgrid-ai) | Smart Grid / Optimization | Python, Streamlit, Scikit-learn, PuLP (LP) | Solar & kinetic energy prediction with Linear Programming allocation. |
+| 5 | **Setu (Smart Navigation Cane)** | Assistive Embedded Hardware | Arduino Nano, Dual HC-SR04, Haptics, 20mm PVC | Low-cost obstacle-detecting smart walking cane for the visually impaired. |
+| 6 | **EchoBind** | Edge AI / Desktop Automation | Python, PyAudio, Librosa (MFCC), Scikit-Learn SVM | Desk tap acoustic localization daemon triggering custom OS macros. |
+| 7 | **F.R.I.D.A.Y Voice AI Suite** | Voice AI & Desktop Agents | FastAPI, FastMCP, LiveKit, Gemini, Claude, ChromaDB | Suite of 6 Iron Man voice AI assistants with system-level tool calling. |
+| 8 | **PolluGone** | CleanTech / Material Innovation | TiO₂ Photocatalysis, Market Analytics, BMC | Architectural tiles breaking down VOCs and NOx under natural sunlight. |
+| 9 | [**VOLTMEN Solar**](https://voltmensolar.com) | Corporate Web Application | Next.js 15, React 19, TypeScript, Tailwind CSS | Corporate solar platform with capacity calculators and local SEO funnels. |
+| 10 | [**VOLTMEN Energy**](https://voltmenenergy.com) | Industrial Web Platform | Web Infrastructure, Structured Schema, SEO | Portal for commercial power equipment, transformers, and HT line supplies. |
+| 11 | **VTOL RC Aircraft** | Robotics / Aerospace Hardware | FDM 3D Printing (LW-PLA), Brushless Motors, CAD | Fixed-wing vertical take-off RC plane using foaming lightweight filament. |
+| 12 | **Non-Profit Learning Support** | Social Impact / Neurodiversity | Client-Side Architecture, Privacy Screeners | Free web platform providing universal tools & evidence-based self-screeners. |
+| 13 | [**Omniversal-AI**](https://github.com/nova-rishabh/Omniversal-AI) | Generative AI Web App | Next.js 16, React 19, Gemini AI, Framer Motion | AI Roast web app built and deployed for AI Hackfest 2026. |
+| 14 | [**NeuroCast**](https://github.com/nova-rishabh/NeuroCast) | NLP / Data Science | JavaScript, Node.js, NLP Pipelines | Multi-challenge NLP platform built for the NeuroLogic '26 Datathon. |
+| 15 | **PulseAI** | Multi-Agent Market Intelligence | Python, Multi-Agent Systems, Web Scraping | Autonomous competitor intelligence engine built for VibeFlow x LovHack. |
+| 16 | **JARVIC** | Conversational Voice Companion | Python, `speech_recognition`, `pyttsx3`, APIs | Python voice assistant with tool integrations; predecessor to F.R.I.D.A.Y. |
+| 17 | **Hack for Hackers** | Hackathon Acceleration Engine | Next.js 16, Playwright, ScrapeGraph, Jules AI | Scrapes Devpost briefs and scaffolds winning repositories and AI prompts. |
+| 18 | **Surya Mitr** | Solar Enterprise Architecture | 3-Tier Enterprise Blueprint (Firebase/FlutterFlow) | 3-tier mobile architecture for solar field agents, site surveys, and pricing. |
+| 19 | **Bijli Kart** | Industrial E-Commerce | Shopify, Catalog Management | Earlier e-commerce store for industrial electrical distribution equipment. |
+| 20 | **CrisisLens** | Computer Vision / Multi-Modal AI | Python, Computer Vision / NLP | Workspace initialized for real-time disaster detection and visual analysis. |
+
+---
+
 <div align="center">
 
 ### 🤝 Let's Connect & Build Together
@@ -212,8 +251,9 @@ I am a **14-year-old developer, hardware hacker, and entrepreneur** based in Gur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-kataria-953a65268/)
 [![Divergit](https://img.shields.io/badge/Divergit-Agency_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://divergit.com)
 [![Voltmen](https://img.shields.io/badge/Voltmen_Solar-Corporate_Site-0B3B60?style=for-the-badge&logo=solar&logoColor=FFD700)](https://voltmensolar.com)
+[![Email](https://img.shields.io/badge/Email-rishabhkatariajs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhkatariajs@gmail.com)
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,40&height=100&section=footer" width="100%" />
 
 </div>
