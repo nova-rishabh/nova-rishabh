@@ -107,7 +107,7 @@ I am a **student founder and systems engineer** based in Gurugram, India. I focu
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nova-rishabh/civicgrid-ai">CivicGrid-AI</a></h3>
-      <p><b>Built for the Indraprastha "The Optimizers" Competition 2026</b></p>
+      <p><b>Smart Microgrid Forecasting &amp; Power Allocation</b></p>
       <ul>
         <li>Scikit-Learn ML models forecast real-time solar irradiance and kinetic foot-traffic generation.</li>
         <li>Simplex Linear Programming (PuLP) solves multi-variable power allocation constraints.</li>
@@ -173,7 +173,6 @@ I am a **student founder and systems engineer** based in Gurugram, India. I focu
 
 ### Competitions, Hackathons & Honors
 
-- ⚡ **Indraprastha "The Optimizers" Competition (2026):** Developed CivicGrid-AI (ML energy forecasting + Linear Programming microgrid allocation).
 - 💡 **Bharat Innovation Challenge 2.0 (BIC):** Conceived and engineered the Setu Smart Navigation Cane with Team Nova.
 - 🌐 **Participant — Midnight Network Web3 Hackathon (2026):** Developed Credipro zero-knowledge lending protocol.
 - 🤖 **Deployment — AI Hackfest 2026:** Developed and deployed Omniversal-AI ([omniversal-ai.vercel.app](https://omniversal-ai.vercel.app)).
