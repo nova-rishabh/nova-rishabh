@@ -5,16 +5,16 @@
 
 <!-- Dynamic Animated Typing Title in #CCCCFF with Space Grotesk -->
 <a href="https://github.com/nova-rishabh">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2500&pause=1200&color=CCCCFF&center=true&vCenter=true&width=750&lines=14-Year-Old+Founder+of+Divergit+%26+VyaparLaunch+SI;Building+Autonomous+AI+Agents%2C+Voice+Pipelines+%26+FastMCP;Prototyping+Assistive+Hardware+%26+3D-Printed+Aerodynamics;Zero-Knowledge+Cryptography+%26+Linear+Programming+Engines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2500&pause=1200&color=7B7BC2&center=true&vCenter=true&width=750&lines=Founder+of+Divergit+%26+VyaparLaunch+SI;Building+Autonomous+AI+Agents%2C+Voice+Pipelines+%26+FastMCP;Prototyping+Assistive+Hardware+%26+3D-Printed+Aerodynamics;Zero-Knowledge+Cryptography+%26+Linear+Programming+Engines" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <a href="https://github.com/nova-rishabh"><img src="https://img.shields.io/badge/Contributions-1%2C720%2B-292966?style=flat-square&logo=github&logoColor=CCCCFF" alt="Contributions" /></a>
-  <img src="https://img.shields.io/badge/Location-Gurugram%2C_India-141432?style=flat-square&logo=googlemaps&logoColor=CCCCFF" alt="Gurugram" />
-  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Founder-Divergit.com-292966?style=flat-square&logo=vercel&logoColor=CCCCFF" alt="Divergit" /></a>
-  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Tech_Lead-voltmensolar.com-141432?style=flat-square&logo=solar&logoColor=CCCCFF" alt="Voltmen Solar" /></a>
-  <a href="https://linkedin.com/in/rishabh-kataria-953a65268"><img src="https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-292966?style=flat-square&logo=linkedin&logoColor=CCCCFF" alt="LinkedIn" /></a>
-  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-141432?style=flat-square&logo=gmail&logoColor=CCCCFF" alt="Email" /></a>
+  <a href="https://github.com/nova-rishabh"><img src="https://img.shields.io/badge/Contributions-1%2C720%2B-CCCCFF?style=flat-square&logo=github&logoColor=292966" alt="Contributions" /></a>
+  <img src="https://img.shields.io/badge/Location-Gurugram%2C_India-CCCCFF?style=flat-square&logo=googlemaps&logoColor=292966" alt="Gurugram" />
+  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Founder-Divergit.com-CCCCFF?style=flat-square&logo=vercel&logoColor=292966" alt="Divergit" /></a>
+  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Tech_Lead-voltmensolar.com-CCCCFF?style=flat-square&logo=solar&logoColor=292966" alt="Voltmen Solar" /></a>
+  <a href="https://linkedin.com/in/rishabh-kataria-953a65268"><img src="https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-CCCCFF?style=flat-square&logo=linkedin&logoColor=292966" alt="LinkedIn" /></a>
+  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-CCCCFF?style=flat-square&logo=gmail&logoColor=292966" alt="Email" /></a>
 </p>
 
 </div>
@@ -23,7 +23,7 @@
 
 ### About Me
 
-I am a **14-year-old systems engineer and founder** based in Gurugram, India. I focus on turning complex technical concepts into production-grade reality—operating commercial SaaS monorepos, building autonomous voice pipelines, and fabricating assistive embedded hardware.
+I am a **student founder and systems engineer** based in Gurugram, India. I focus on turning complex technical concepts into production-grade reality—operating commercial SaaS monorepos, building autonomous voice pipelines, and fabricating assistive embedded hardware.
 
 - **Founder @ VyaparLaunch SI:** Commercial SaaS monorepo automating Google Business review intelligence and WhatsApp damage control for SMBs.
 - **Founder @ Divergit ([divergit.com](https://divergit.com)):** Autonomous B2B workflow orchestration and conversational voice AI agency.
@@ -45,10 +45,10 @@ I am a **14-year-old systems engineer and founder** based in Gurugram, India. I 
 <!-- Cohesive Activity Stats Cards -->
 <p align="center">
   <a href="https://github.com/nova-rishabh">
-    <img src="https://github-readme-stats.vercel.app/api?username=nova-rishabh&show_icons=true&hide_rank=true&bg_color=141432&title_color=CCCCFF&icon_color=CCCCFF&text_color=A3A3CC&border_color=5C5C99&border_radius=8" alt="GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nova-rishabh&show_icons=true&hide_rank=true&bg_color=F6F6FF&title_color=292966&icon_color=5C5C99&text_color=5C5C99&border_color=CCCCFF&border_radius=8" alt="GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/nova-rishabh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nova-rishabh&layout=compact&bg_color=141432&title_color=CCCCFF&text_color=A3A3CC&border_color=5C5C99&border_radius=8" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nova-rishabh&layout=compact&bg_color=F6F6FF&title_color=292966&text_color=5C5C99&border_color=CCCCFF&border_radius=8" alt="Top Languages" height="165" />
   </a>
 </p>
 
@@ -107,7 +107,7 @@ I am a **14-year-old systems engineer and founder** based in Gurugram, India. I 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nova-rishabh/civicgrid-ai">CivicGrid-AI</a></h3>
-      <p><b>Winner, Indraprastha "The Optimizers" Competition 2026</b></p>
+      <p><b>Built for the Indraprastha "The Optimizers" Competition 2026</b></p>
       <ul>
         <li>Scikit-Learn ML models forecast real-time solar irradiance and kinetic foot-traffic generation.</li>
         <li>Simplex Linear Programming (PuLP) solves multi-variable power allocation constraints.</li>
@@ -173,12 +173,12 @@ I am a **14-year-old systems engineer and founder** based in Gurugram, India. I 
 
 ### Competitions, Hackathons & Honors
 
-- 🥇 **Winner — Indraprastha "The Optimizers" Competition (2026):** Developed CivicGrid-AI (ML energy forecasting + Linear Programming microgrid allocation).
-- 💡 **Finalist — Bharat Innovation Challenge 2.0 (BIC):** Conceived and engineered the Setu Smart Navigation Cane with Team Nova.
+- ⚡ **Indraprastha "The Optimizers" Competition (2026):** Developed CivicGrid-AI (ML energy forecasting + Linear Programming microgrid allocation).
+- 💡 **Bharat Innovation Challenge 2.0 (BIC):** Conceived and engineered the Setu Smart Navigation Cane with Team Nova.
 - 🌐 **Participant — Midnight Network Web3 Hackathon (2026):** Developed Credipro zero-knowledge lending protocol.
 - 🤖 **Deployment — AI Hackfest 2026:** Developed and deployed Omniversal-AI ([omniversal-ai.vercel.app](https://omniversal-ai.vercel.app)).
 - 📈 **Datathon — NeuroLogic '26:** Engineered multi-challenge NLP classification pipelines with NeuroCast.
-- 🌱 **Finalist — Eureka! Junior:** Presented PolluGone photo-catalytic air-purifying architectural panels.
+- 🌱 **Eureka! Junior:** Presented PolluGone photo-catalytic air-purifying architectural panels.
 - 📐 **Olympiad Pipeline:** Intensive mathematical preparation in Number Theory, Combinatorics, and Plane Geometry for **IOQM, ZCO, and ZIO**.
 - 🎓 **Young CEO Program:** Completed entrepreneurship and venture leadership immersion at IIT Delhi.
 
@@ -189,10 +189,10 @@ I am a **14-year-old systems engineer and founder** based in Gurugram, India. I 
 ### Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishabh-kataria-953a65268/"><img src="https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-292966?style=flat-square&logo=linkedin&logoColor=CCCCFF" alt="LinkedIn" /></a>
-  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Agency-divergit.com-141432?style=flat-square&logo=vercel&logoColor=CCCCFF" alt="Divergit" /></a>
-  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Solar-voltmensolar.com-292966?style=flat-square&logo=solar&logoColor=CCCCFF" alt="Voltmen" /></a>
-  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-rishabhkatariajs@gmail.com-141432?style=flat-square&logo=gmail&logoColor=CCCCFF" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rishabh-kataria-953a65268/"><img src="https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-CCCCFF?style=flat-square&logo=linkedin&logoColor=292966" alt="LinkedIn" /></a>
+  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Agency-divergit.com-CCCCFF?style=flat-square&logo=vercel&logoColor=292966" alt="Divergit" /></a>
+  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Solar-voltmensolar.com-CCCCFF?style=flat-square&logo=solar&logoColor=292966" alt="Voltmen" /></a>
+  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-rishabhkatariajs@gmail.com-CCCCFF?style=flat-square&logo=gmail&logoColor=292966" alt="Email" /></a>
 </p>
 
 </div>
