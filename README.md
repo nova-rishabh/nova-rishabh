@@ -9,12 +9,12 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/nova-rishabh"><img src="https://img.shields.io/badge/Contributions-1%2C720%2B-CCCCFF?style=flat-square&logo=github&logoColor=292966" alt="Contributions" /></a>
-  <img src="https://img.shields.io/badge/Location-Gurugram%2C_India-CCCCFF?style=flat-square&logo=googlemaps&logoColor=292966" alt="Gurugram" />
-  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Founder-Divergit.com-CCCCFF?style=flat-square&logo=vercel&logoColor=292966" alt="Divergit" /></a>
-  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Tech_Lead-voltmensolar.com-CCCCFF?style=flat-square&logo=solar&logoColor=292966" alt="Voltmen Solar" /></a>
-  <a href="https://linkedin.com/in/rishabh-kataria-953a65268"><img src="https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-CCCCFF?style=flat-square&logo=linkedin&logoColor=292966" alt="LinkedIn" /></a>
-  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-CCCCFF?style=flat-square&logo=gmail&logoColor=292966" alt="Email" /></a>
+  <a href="https://github.com/nova-rishabh"><img src="https://img.shields.io/badge/Contributions-1%2C720%2B-CCCCFF?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=5C5C99" alt="Contributions" /></a>
+  <img src="https://img.shields.io/badge/Location-Gurugram%2C_India-CCCCFF?style=flat-square&logo=googlemaps&logoColor=FFFFFF&labelColor=5C5C99" alt="Gurugram" />
+  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Founder-Divergit.com-CCCCFF?style=flat-square&logo=vercel&logoColor=FFFFFF&labelColor=5C5C99" alt="Divergit" /></a>
+  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Tech_Lead-voltmensolar.com-CCCCFF?style=flat-square&logo=solar&logoColor=FFFFFF&labelColor=5C5C99" alt="Voltmen Solar" /></a>
+  <a href="https://linkedin.com/in/rishabh-kataria-953a65268"><img src="https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-CCCCFF?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=5C5C99" alt="LinkedIn" /></a>
+  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-CCCCFF?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=5C5C99" alt="Email" /></a>
 </p>
 
 </div>
@@ -189,10 +189,10 @@ I am a **student founder and systems engineer** based in Gurugram, India. I focu
 ### Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishabh-kataria-953a65268/"><img src="https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-CCCCFF?style=flat-square&logo=linkedin&logoColor=292966" alt="LinkedIn" /></a>
-  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Agency-divergit.com-CCCCFF?style=flat-square&logo=vercel&logoColor=292966" alt="Divergit" /></a>
-  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Solar-voltmensolar.com-CCCCFF?style=flat-square&logo=solar&logoColor=292966" alt="Voltmen" /></a>
-  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-rishabhkatariajs@gmail.com-CCCCFF?style=flat-square&logo=gmail&logoColor=292966" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rishabh-kataria-953a65268/"><img src="https://img.shields.io/badge/LinkedIn-Rishabh_Kataria-CCCCFF?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=5C5C99" alt="LinkedIn" /></a>
+  <a href="https://divergit.com"><img src="https://img.shields.io/badge/Agency-divergit.com-CCCCFF?style=flat-square&logo=vercel&logoColor=FFFFFF&labelColor=5C5C99" alt="Divergit" /></a>
+  <a href="https://voltmensolar.com"><img src="https://img.shields.io/badge/Solar-voltmensolar.com-CCCCFF?style=flat-square&logo=solar&logoColor=FFFFFF&labelColor=5C5C99" alt="Voltmen" /></a>
+  <a href="mailto:rishabhkatariajs@gmail.com"><img src="https://img.shields.io/badge/Email-rishabhkatariajs@gmail.com-CCCCFF?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=5C5C99" alt="Email" /></a>
 </p>
 
 </div>
