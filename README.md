@@ -144,7 +144,7 @@ I am a **student founder and systems engineer** based in Gurugram, India. I focu
 
 ---
 
-### Complete Project Archive (20 Audited Builds)
+### Complete Project Archive (22 Audited Builds)
 
 | # | Project Name | Domain / Category | Primary Tech Stack | Status / Link |
 |---|---|---|---|---|
@@ -168,16 +168,19 @@ I am a **student founder and systems engineer** based in Gurugram, India. I focu
 | 18 | **Surya Mitr** | Solar Enterprise System | 3-Tier Enterprise Blueprint (Firebase/FlutterFlow) | Enterprise Spec |
 | 19 | **Bijli Kart** | Industrial E-Commerce | Shopify, Catalog Management | Managed Store |
 | 20 | **CrisisLens** | Computer Vision Research | Python, Computer Vision, Geospatial Indexing | Research Workspace |
+| 21 | [**RollWatch**](https://github.com/nova-rishabh/Hackathon-phy) | Civic AI / Electoral Roll Transparency | Python, TypeScript, Gemini, ElevenLabs, Redis | [Live Demo](https://rollwatch-web.onrender.com) |
+| 22 | [**Readback**](https://github.com/nova-rishabh/readback) | Brand & Claim Governance AI | Next.js 15, Supabase, pgvector, Gemini | [Live App](https://readback-virid.vercel.app) |
 
 ---
 
 ### Competitions, Hackathons & Honors
 
-- 🏅 **Innoverse 4.0 Hackathon — KR Mangalam University, Gurugram:** Placed **4th**, competing **solo** against teams of 4–5, and received a consolation prize.
+- 🏅 **Innoverse 4.0 Hackathon — KR Mangalam University, Gurugram:** Placed **4th**, competing **solo** against teams of 4–5 with [RollWatch](https://rollwatch-web.onrender.com), and received a consolation prize.
 - 💡 **Bharat Innovation Challenge 2.0 (BIC):** Conceived and engineered the Setu Smart Navigation Cane with Team Nova.
 - 🌐 **Participant — Midnight Network Web3 Hackathon (2026):** Developed Credipro zero-knowledge lending protocol.
 - 🤖 **Deployment — AI Hackfest 2026:** Developed and deployed Omniversal-AI ([omniversal-ai.vercel.app](https://omniversal-ai.vercel.app)).
 - 📈 **Datathon — NeuroLogic '26:** Engineered multi-challenge NLP classification pipelines with NeuroCast.
+- ⚡ **TechCircuit Hackathon (We Code Coders, 2026):** Built [Readback](https://readback-virid.vercel.app) solo, a pre-publication brand and claim governance tool.
 - 🌱 **Eureka! Junior:** Presented PolluGone photo-catalytic air-purifying architectural panels.
 - 📐 **Olympiad Pipeline:** Intensive mathematical preparation in Number Theory, Combinatorics, and Plane Geometry for **ZCO and ZIO**.
 - 🎓 **Young CEO Program:** Completed entrepreneurship and venture leadership immersion at IIT Delhi.
