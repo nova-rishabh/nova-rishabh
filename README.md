@@ -29,7 +29,7 @@ I am a **student founder and systems engineer** based in Gurugram, India. I focu
 - **Founder @ Divergit ([divergit.com](https://divergit.com)):** Autonomous B2B workflow orchestration and conversational voice AI agency.
 - **Digital & Tech Lead @ VOLTMEN:** Powering corporate platforms ([voltmensolar.com](https://voltmensolar.com), [voltmenenergy.com](https://voltmenenergy.com)) and lead acquisition funnels for industrial CleanTech.
 - **Embedded & Hardware Engineering:** Conceived and engineered the **Setu Smart Navigation Cane** (dual-height ultrasonic obstacle detection with haptics for BIC 2.0) and aerodynamically designed lightweight foaming **VTOL RC aircraft** in SolidWorks.
-- **Mathematical Rigor:** Active algorithmic Olympiad preparation in Number Theory, Combinatorics, and Geometry for **IOQM, ZCO, and ZIO**.
+- **Mathematical Rigor:** Active algorithmic Olympiad preparation in Number Theory, Combinatorics, and Geometry for **ZCO and ZIO**.
 
 ---
 
@@ -173,12 +173,13 @@ I am a **student founder and systems engineer** based in Gurugram, India. I focu
 
 ### Competitions, Hackathons & Honors
 
+- 🏅 **Innoverse 4.0 Hackathon — KR Mangalam University, Gurugram:** Placed **4th**, competing **solo** against teams of 4–5, and received a consolation prize.
 - 💡 **Bharat Innovation Challenge 2.0 (BIC):** Conceived and engineered the Setu Smart Navigation Cane with Team Nova.
 - 🌐 **Participant — Midnight Network Web3 Hackathon (2026):** Developed Credipro zero-knowledge lending protocol.
 - 🤖 **Deployment — AI Hackfest 2026:** Developed and deployed Omniversal-AI ([omniversal-ai.vercel.app](https://omniversal-ai.vercel.app)).
 - 📈 **Datathon — NeuroLogic '26:** Engineered multi-challenge NLP classification pipelines with NeuroCast.
 - 🌱 **Eureka! Junior:** Presented PolluGone photo-catalytic air-purifying architectural panels.
-- 📐 **Olympiad Pipeline:** Intensive mathematical preparation in Number Theory, Combinatorics, and Plane Geometry for **IOQM, ZCO, and ZIO**.
+- 📐 **Olympiad Pipeline:** Intensive mathematical preparation in Number Theory, Combinatorics, and Plane Geometry for **ZCO and ZIO**.
 - 🎓 **Young CEO Program:** Completed entrepreneurship and venture leadership immersion at IIT Delhi.
 
 ---
