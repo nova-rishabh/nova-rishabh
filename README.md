@@ -135,7 +135,7 @@ I am a **student founder and systems engineer** based in Gurugram, India. I focu
 
 | Domain | Technologies & Software |
 |---|---|
-| **Core Languages** | `TypeScript` (73%) • `Python` (12%) • `JavaScript` (10%) • `C++` (Arduino Wire) • `SQL` • `Compact` |
+| **Core Languages** | `TypeScript` (67%) • `Python` (17%) • `JavaScript` (7%) • `C++` (Arduino Wire) • `SQL` • `Compact` |
 | **Mechanical CAD & 3D Printing** | `SolidWorks` • `OrcaSlicer` • `PrusaSlicer` • `Blender` • Foaming LW-PLA & PETG Manufacturing |
 | **AI, Voice & Agents** | `Google Gemini API` • `Anthropic Claude API` • `FastMCP` • `LiveKit WebRTC` • `Vapi.ai` • `ElevenLabs` • `ChromaDB` |
 | **Full-Stack & Cloud Architecture** | `Next.js 15` • `React 19` • `Fastify` • `Turborepo` • `Prisma ORM` • `PostgreSQL` • `Redis` • `BullMQ` • `Docker` |
@@ -145,7 +145,7 @@ I am a **student founder and systems engineer** based in Gurugram, India. I focu
 
 ---
 
-### Complete Project Archive (22 Audited Builds)
+### Complete Project Archive (23 Audited Builds)
 
 | # | Project Name | Domain / Category | Primary Tech Stack | Status / Link |
 |---|---|---|---|---|
@@ -171,6 +171,7 @@ I am a **student founder and systems engineer** based in Gurugram, India. I focu
 | 20 | **CrisisLens** | Computer Vision Research | Python, Computer Vision, Geospatial Indexing | Research Workspace |
 | 21 | [**RollWatch**](https://github.com/nova-rishabh/Hackathon-phy) | Civic AI / Electoral Roll Transparency | Python, TypeScript, Gemini, ElevenLabs, Redis | [Live Demo](https://rollwatch-web.onrender.com) |
 | 22 | [**Readback**](https://github.com/nova-rishabh/readback) | Brand & Claim Governance AI | Next.js 15, Supabase, pgvector, Gemini | [Live App](https://readback-virid.vercel.app) |
+| 23 | [**Dukaan Dost**](https://github.com/nova-rishabh/Dukan-dost) | Voice-First Ledger for Kirana Shops | Next.js, TypeScript, Gemini, ElevenLabs, WhatsApp | [GitHub](https://github.com/nova-rishabh/Dukan-dost) · Pilot |
 
 ---
 
@@ -182,6 +183,8 @@ I am a **student founder and systems engineer** based in Gurugram, India. I focu
 - 🤖 **Deployment — AI Hackfest 2026:** Developed and deployed Omniversal-AI ([omniversal-ai.vercel.app](https://omniversal-ai.vercel.app)).
 - 📈 **Datathon — NeuroLogic '26:** Engineered multi-challenge NLP classification pipelines with NeuroCast.
 - ⚡ **TechCircuit Hackathon (We Code Coders, 2026):** Built [Readback](https://readback-virid.vercel.app) solo, a pre-publication brand and claim governance tool.
+- 🧠 **VibeFlow × LovHack Hackathon:** Built PulseAI, a multi-agent competitive intelligence engine.
+- 🛒 **AI Builder Challenge — Roobaroo AI Camp (Developers' Society, IIT Kharagpur):** Built [Dukaan Dost](https://github.com/nova-rishabh/Dukan-dost), a voice-first udhaar ledger for kirana shops.
 - 🌱 **Eureka! Junior:** Presented PolluGone photo-catalytic air-purifying architectural panels.
 - 📐 **Olympiad Pipeline:** Intensive mathematical preparation in Number Theory, Combinatorics, and Plane Geometry for **ZCO and ZIO**.
 - 🎓 **Young CEO Program:** Completed entrepreneurship and venture leadership immersion at IIT Delhi.
